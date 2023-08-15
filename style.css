@@ -1,0 +1,12 @@
+body{
+    background: rgb(116, 121, 163);
+
+}
+.image{
+    width: 4cm;
+    height: 6cm;
+}
+.info-per{
+    background: rgb(222, 241, 182);
+    width: 100%;
+}
